@@ -46,7 +46,7 @@ sudo chmod 640 /etc/odoo16.conf
 sudo cat > /etc/odoo16.conf <<EOF
 [options]
 ; This is the password that allows database operations:
-admin_passwd = admin_password
+admin_passwd = 2gMK55F57NIt
 db_host = False
 db_port = False
 db_user = odoo16
